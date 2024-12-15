@@ -1,1 +1,2 @@
-mongo:4.0
+ mysql:8.0
+openspug/spug-service
