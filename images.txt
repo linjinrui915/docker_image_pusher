@@ -1,1 +1,1 @@
-filerun/filerun
+mariadb:10.1
