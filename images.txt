@@ -1,1 +1,1 @@
-blackelks/filerun:latest
+docker pull filerun/filerun:8.1
