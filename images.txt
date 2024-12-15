@@ -1,1 +1,1 @@
-jmal/jmalcloud:latest
+jmal/jmalcloud-nginx:latest 
