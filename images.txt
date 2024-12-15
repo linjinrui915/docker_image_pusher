@@ -1,2 +1,5 @@
- mysql:8.0
-openspug/spug-service
+jmal/jmalcloud:latest
+mongo:4.4
+jmal/jmalcloud-nginx:latest
+onlyoffice/documentserver:7.0.0.132
+jgraph/drawio:20.2.3
