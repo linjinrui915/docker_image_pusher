@@ -1,1 +1,1 @@
-mongo:4.4
+jmal/jmalcloud:latest
