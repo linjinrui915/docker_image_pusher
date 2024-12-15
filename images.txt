@@ -1,1 +1,1 @@
-docker pull filerun/filerun:8.1
+filerun/filerun:8.1
