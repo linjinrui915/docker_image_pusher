@@ -1,1 +1,1 @@
-jmal/jmalcloud-nginx:latest 
+drawio
