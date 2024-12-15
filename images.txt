@@ -1,3 +1,2 @@
-rocketchat/rocket.chat:latest
 mongo:4.0
-mongo-init-replica
+
