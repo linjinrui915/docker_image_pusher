@@ -1,1 +1,1 @@
-emby/emby-server:latest
+emby/emby-server
