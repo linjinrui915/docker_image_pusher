@@ -1,1 +1,1 @@
-shaneisrael/fireshare:latest
+lscr.io/linuxserver/calibre-web:latest
