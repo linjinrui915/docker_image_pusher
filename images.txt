@@ -1,1 +1,1 @@
-synctvorg/synctv
+emby/emby-server:latest
