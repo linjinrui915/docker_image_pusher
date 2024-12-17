@@ -1,1 +1,1 @@
-solr:9
+noahhrreion/calcium:main
