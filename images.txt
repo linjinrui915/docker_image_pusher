@@ -1,1 +1,3 @@
-sameersbn/bind
+grafana/grafana-oss
+quay.io/prometheus/prometheus
+chigusa/bililive-go
