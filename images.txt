@@ -1,1 +1,1 @@
-photoprism/photoprism
+diouxx/glpi
