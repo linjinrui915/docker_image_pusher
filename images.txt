@@ -1,1 +1,1 @@
-docspell/restserver:latest
+docspell/joex:latest
