@@ -1,1 +1,1 @@
- chroxify/haptic-web:v0.1.4
+docspell/restserver:latest
