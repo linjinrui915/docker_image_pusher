@@ -1,1 +1,2 @@
-docspell/joex:latest
+docspell/dsc:latest
+postgres:16.1
