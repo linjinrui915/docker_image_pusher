@@ -1,1 +1,1 @@
-centos:7
+nfs-subdir-external-provisioner:v4.0.2
