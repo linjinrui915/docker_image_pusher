@@ -1,1 +1,1 @@
-mysql:8.0
+sonic-server-eureka:v2.7.2
